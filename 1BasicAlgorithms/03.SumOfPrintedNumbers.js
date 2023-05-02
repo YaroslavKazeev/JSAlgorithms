@@ -15,8 +15,9 @@
 
 // Code:
 
+let Sum =0;
+
 for (let i=0; i<=135; i++) {
-    let Sum = "";
     Sum = Sum + i;
     console.log(`Number is: ${i}, Sum: ${Sum}`);
 }
